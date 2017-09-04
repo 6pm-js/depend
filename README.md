@@ -15,7 +15,7 @@ Declarative dependency injection.
 	- [Post injection intialisation](#Post-injection-intialisation)
 	- [Inheritance](#Inheritance)
 	- [As Promised](#As-Promised)
-		-[Downstream dependencies as Promises](#Downstream-dependencies-as-Promises)
+		- [Downstream dependencies as Promises](#Downstream-dependencies-as-Promises)
 	- [Singletons](#Singletons)
 	- [Destructured injection](#Destructured-injection)
 - [Cyclic dependencies](#Cyclic-dependencies)
