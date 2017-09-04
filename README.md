@@ -77,6 +77,12 @@ There is no need to intrument to allow the declarative, decorator approach,
 unless you intend to use it within your project, and no capability is unique
 to either approach - choose whichever you are comfortable with.
 
+In order to use the declarative approach (at the time of writing), two
+transforms are needed, via Babel transpilation:
+
+- [transform-decorators-legacy](https://github.com/loganfsmyth/babel-plugin-transform-decorators-legacy)
+- [transform-class-properties](https://www.npmjs.com/package/babel-plugin-transform-class-properties)
+
 
 ### Declaring dependencies
 
