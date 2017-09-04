@@ -408,8 +408,8 @@ to an `init` function being executed.
 
 In order to:
 
-a) Prevent surprise (and cascading requirements to handle Promises)
-b) Ensure control flow options remain the preserve of the application developer
+1. Prevent surprise (and cascading requirements to handle Promises)
+2. Ensure control flow options remain the preserve of the application developer
 
 Downstream dependencies that return `Promise`s *DO NOT* automatically promote
 an upstream type to a `Promise`.
