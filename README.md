@@ -5,22 +5,22 @@ Declarative dependency injection.
 
 ## Table of contents
 
-- [Install](#Install)
-- [Test](#Test)
-- [Usage](#Usage)
-	- [Declarative vs imperative](#Declarative-vs-imperative)
-	- [Declaring dependencies](#Declaring-dependencies)
- 	- [Creating instances, and satisfying dependencies](#Creating-instances-and-satisfying-dependencies)
-	- [Runtime determination of concrete implementations](#Runtime-determination-of-concrete-implementations)
-	- [Post injection intialisation](#Post-injection-intialisation)
-	- [Inheritance](#Inheritance)
-	- [As Promised](#As-Promised)
-		- [Downstream dependencies as Promises](#Downstream-dependencies-as-Promises)
-	- [Singletons](#Singletons)
-	- [Destructured injection](#Destructured-injection)
-- [Cyclic dependencies](#Cyclic-dependencies)
-- [Performance](#Performance)
-- [Contributing](#Contributing)
+- [Install](#install)
+- [Test](#test)
+- [Usage](#usage)
+	- [Declarative vs imperative](#declarative-vs-imperative)
+	- [Declaring dependencies](#declaring-dependencies)
+ 	- [Creating instances, and satisfying dependencies](#creating-instances-and-satisfying-dependencies)
+	- [Runtime determination of concrete implementations](#runtime-determination-of-concrete-implementations)
+	- [Post injection intialisation](#post-injection-intialisation)
+	- [Inheritance](#inheritance)
+	- [As Promised](#as-promised)
+		- [Downstream dependencies as Promises](#downstream-dependencies-as-promises)
+	- [Singletons](#singletons)
+	- [Destructured injection](#destructured-injection)
+- [Cyclic dependencies](#cyclic-dependencies)
+- [Performance](#performance)
+- [Contributing](#contributing)
 
 
 ## Install
