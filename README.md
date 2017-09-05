@@ -1,5 +1,7 @@
 # @6pm/depend
 
+[![Build Status](https://travis-ci.org/6pm-js/depend.svg?branch=master)](https://travis-ci.org/6pm-js/depend) [![Coverage Status](https://coveralls.io/repos/github/6pm-js/depend/badge.svg?branch=master)](https://coveralls.io/github/6pm-js/depend?branch=master)
+
 Declarative dependency injection.
 
 
