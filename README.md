@@ -1,6 +1,6 @@
 # @6pm/depend
 
-[![Build Status](https://travis-ci.org/6pm-js/depend.svg?branch=master)](https://travis-ci.org/6pm-js/depend) [![Coverage Status](https://coveralls.io/repos/github/6pm-js/depend/badge.svg?branch=master)](https://coveralls.io/github/6pm-js/depend?branch=master)
+[![npm version](https://badge.fury.io/js/%406pm%2Fdepend.svg)](https://badge.fury.io/js/%406pm%2Fdepend) [![dependencies Status](https://david-dm.org/6pm-js/depend/status.svg)](https://david-dm.org/6pm-js/depend) [![Build Status](https://travis-ci.org/6pm-js/depend.svg?branch=master)](https://travis-ci.org/6pm-js/depend) [![Coverage Status](https://coveralls.io/repos/github/6pm-js/depend/badge.svg?branch=master)](https://coveralls.io/github/6pm-js/depend?branch=master)
 
 Declarative dependency injection.
 
